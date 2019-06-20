@@ -1,4 +1,4 @@
-package com.spring.security.service;
+package com.spring.security.security;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.access.SecurityMetadataSource;

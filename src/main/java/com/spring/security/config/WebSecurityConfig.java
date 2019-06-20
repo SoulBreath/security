@@ -1,7 +1,7 @@
 package com.spring.security.config;
 
-import com.spring.security.service.MyFilterSecurityInterceptor;
-import com.spring.security.service.MyUserDetailService;
+import com.spring.security.security.MyFilterSecurityInterceptor;
+import com.spring.security.security.MyUserDetailService;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.security.config.annotation.authentication.builders.AuthenticationManagerBuilder;

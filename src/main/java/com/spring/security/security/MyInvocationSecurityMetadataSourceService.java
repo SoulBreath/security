@@ -1,4 +1,4 @@
-package com.spring.security.service;
+package com.spring.security.security;
 
 import com.spring.security.entity.SysMenu;
 import com.spring.security.mapper.SysMenuMapper;

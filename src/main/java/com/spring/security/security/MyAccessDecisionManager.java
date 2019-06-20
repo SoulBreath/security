@@ -1,4 +1,4 @@
-package com.spring.security.service;
+package com.spring.security.security;
 
 import org.springframework.security.access.AccessDecisionManager;
 import org.springframework.security.access.AccessDeniedException;
